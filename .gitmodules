@@ -1,0 +1,3 @@
+[submodule "Bunny"]
+	path = Bunny
+	url = https://github.com/BAAI-DCAI/Bunny.git
